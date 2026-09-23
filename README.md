@@ -2,19 +2,19 @@
 
 > Portfólio pessoal desenvolvido para apresentar meus projetos, habilidades e minha trajetória como desenvolvedora em formação.
 
-## ✨ Sobre o projeto
+## Sobre o projeto
 
 Este portfólio foi desenvolvido para reunir meus principais projetos, habilidades e experiências na área de tecnologia.
 
 O projeto possui uma interface **elegante, delicada e responsiva**, criada para apresentar minha identidade e minha trajetória como desenvolvedora.
 
-## 💻 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - `HTML5`
 - `CSS3`
 - `JavaScript`
 
-## 🎀 Funcionalidades
+## Funcionalidades
 
 - `Sobre mim`
 - `Habilidades`
@@ -22,15 +22,11 @@ O projeto possui uma interface **elegante, delicada e responsiva**, criada para 
 - `Formação`
 - `Contato`
 
-## 🌷 Objetivo
+## Objetivo
 
 Meu objetivo é continuar desenvolvendo minhas habilidades em tecnologia e criar projetos cada vez mais completos, construindo minha trajetória profissional na área de **Desenvolvimento de Sistemas**.
 
-## 📌 Status
-
-`Em desenvolvimento 🚧`
-
-## 👩🏻‍💻 Autora
+## Autora
 
 **Alice**
 
