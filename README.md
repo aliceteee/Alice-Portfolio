@@ -10,8 +10,8 @@ O projeto possui uma interface **elegante, delicada e responsiva**, criada para 
 
 ## Tecnologias utilizadas
 
-- `HTML5`
-- `CSS3`
+- `HTML`
+- `CSS`
 - `JavaScript`
 
 ## Funcionalidades
